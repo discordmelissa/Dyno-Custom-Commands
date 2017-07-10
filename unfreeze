@@ -2,4 +2,4 @@
 {silent}
 {require:serverAdmin}
 {!role in Testers, -freeze}
-**Chat test frozen** (Alpha state)
+**Chat test unfrozen** (Alpha state)
