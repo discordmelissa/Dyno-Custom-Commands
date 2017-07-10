@@ -4,5 +4,5 @@ These commands are made for the public, feel free to copy the commands on our [d
    -[Olybear9](https://github.com/Olybear9)<br/>
    -[Advaith](https://github.co/advaith1)<br/>
   
-  A list of commands can be found; [here](https://github.com/Dyno-Custom-Commands/Dyno-Custom-Comands/blob/master/Command%20List)
+  A list of commands can be found; [here](https://github.com/Dyno-Custom-Commands/Dyno-Custom-Comands/blob/master/Command%20List.md)
    
