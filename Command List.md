@@ -1,2 +1,3 @@
 `?commandhelp` This command will display the custom command help<br/>
-`?serverupdates` lists server updates
+`?serverupdates` lists server updates<br/>
+[**Click here to return back**](https://github.com/Dyno-Custom-Commands/Dyno-Custom-Comands/blob/master/README.md)
