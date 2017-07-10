@@ -1,2 +1,2 @@
-`?commandhelp` This command will display the custom command help
+`?commandhelp` This command will display the custom command help<br/>
 `?serverupdates` lists server updates
