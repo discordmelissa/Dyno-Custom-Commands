@@ -2,4 +2,5 @@
 `?serverupdates` lists server updates<br/>
 `?freeze` freezes chat to staff only :O<br/>
 `?unfreeze` unfreezes chat :O<br/>
+`?commandban @user` bans a user from using commands<br/>
 [**Click here to return back**](https://github.com/Dyno-Custom-Commands/Dyno-Custom-Comands/blob/master/README.md)
