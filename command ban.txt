@@ -1,5 +1,5 @@
 {require:serverAdmin}
 {delete}
 {silent}
-{!ignoreuser {user}}
+{!ignoreuser $1}
 {!setnick $1 [CMB]}
