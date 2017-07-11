@@ -1,0 +1,5 @@
+{require:serverAdmin}
+{delete}
+{silent}
+{!ignoreuser {user}}
+{!setnick {user} {user.nickname}}
