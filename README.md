@@ -6,7 +6,9 @@ We've created a server for people to test commands, chat about them, and also tr
 [Our server](https://discord.gg/e7R8J68)<br/>
 [Dyno Website](https://www.dynobot.net/)<br/>
 [Discord Website](https://discord.gg)<br/>
+[Github Repos](https://github.com/Dyno-Custom-Commands)<br/>
+[Website](https://dynocc.tk)
 
-A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List.md)
+A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List.md).
 
 Bored? [Check this out](https://dynocc.tk/bored)!
