@@ -9,6 +9,6 @@ We've created a server for people to test commands, chat about them, and also tr
 [Github Repos](https://github.com/Dyno-Custom-Commands)<br/>
 [Website](https://dynocc.tk)
 
-A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List.md).
+A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List).
 
 Bored? [Check this out](https://dynocc.tk/bored)!
