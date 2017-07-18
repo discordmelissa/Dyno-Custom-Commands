@@ -1,0 +1,4 @@
+{!purge 2}
+Bug #$1
+Type Of Bug: $3
+Bug Information: ```$5+```
