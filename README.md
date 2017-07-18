@@ -7,10 +7,9 @@ We've created a server for people to test commands, chat about them, and also tr
 -[Dyno Website](https://www.dynobot.net/)<br/>
 -[Discord Website](https://discord.gg)<br/>
 -[Github Repos](https://github.com/Dyno-Custom-Commands)<br/>
--[Updates](http://yourstupid)<br/>
--`[Website]`(Being worked on) (https://dynocc.tk)<br/>
+-[Website](https://dynocc.tk)
 
 A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List).<br/>
 <br/>
-Some other, "Projects":<br/>
--[Matirx-Update](https://dynocc.tk/bored)! (Made by Olybear9)
+Some other "Projects":<br/>
+-[Matrix](https://dynocc.tk/bored)! (Made by Olybear9)
