@@ -1,0 +1,2 @@
+{respond:#action-log} 
+At {datetime} {user} called in the mods.
