@@ -1,2 +1,0 @@
-{respond:#action-log} 
-At {datetime} {user.nick} {user.name} called in the mods.
