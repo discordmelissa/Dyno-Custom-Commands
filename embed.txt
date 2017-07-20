@@ -1,2 +1,2 @@
 {delete}
-{!announce {channel} $1}
+{!announce {channel} $1+}
